@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c9d56ee766801cf41846b4baba974055
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306533
+  packageName: Scroll Carousel
+  packageVersion: 2.0
+  assetPath: Assets/ScrollCarousel/Demo/Prefabs/Carousel.prefab
+  uploadId: 731011

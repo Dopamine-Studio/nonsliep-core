@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 350a2986a8cfac941bba12ce2aca2c23
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306533
+  packageName: Scroll Carousel
+  packageVersion: 2.0
+  assetPath: Assets/ScrollCarousel/Editor/ScrollCarouselEditor.cs
+  uploadId: 731011

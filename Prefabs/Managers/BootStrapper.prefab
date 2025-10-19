@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8580481998586650896
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1692352445908862972}
+  - component: {fileID: 3289040727585049880}
+  m_Layer: 0
+  m_Name: BootStrapper
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1692352445908862972
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8580481998586650896}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 961.47327, y: 1410.4626, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3289040727585049880
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8580481998586650896}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4079390e8c9c46a58595c08ee392a32e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Game.Boot.Bootstrapper
+  prefabs:
+  - {fileID: 3231073174575825638, guid: 9b07a67c0ad254ec48cc9f3fb8da9052, type: 3}
+  - {fileID: 1646485229821161100, guid: 10e95e94752751649a3eb9112cb12fed, type: 3}
+  - {fileID: 2975712602668619576, guid: e3cf6542c50e143f38ef4a0c1c655ef3, type: 3}
+  - {fileID: 5414557766147951489, guid: dd22a34ed51b27548875f2efadf582a8, type: 3}
+  - {fileID: 5588317112159259036, guid: 6ba6ec220c338466282771fb65fbbdce, type: 3}
+  - {fileID: 6322764186325924658, guid: f28d51f4289034c25b77dab04485cca6, type: 3}
+  - {fileID: 8386448061507562463, guid: 4ac3d365b957f48529b71a1a2e64b0f5, type: 3}
+  runStartupFlowOnStart: 1
+  waitForNextFrameBeforeTasks: 1
+  nextSceneName: 
+  nextSceneDelaySeconds: 1
+  useRealtimeDelay: 1
+  loadAsNewRoot: 1

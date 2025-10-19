@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e59c49d8b7aae7a46873c25535059321
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306533
+  packageName: Scroll Carousel
+  packageVersion: 2.0
+  assetPath: Assets/ScrollCarousel/Demo/Scripts/ButtonClicker.cs
+  uploadId: 731011

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fc1035674bfb12649b64c569c07c0294
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306533
+  packageName: Scroll Carousel
+  packageVersion: 2.0
+  assetPath: Assets/ScrollCarousel/Third-Party Notices.txt
+  uploadId: 731011

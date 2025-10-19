@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa4cc54e5f6b44b9ca81cfcf8083987e, type: 3}
+  m_Name: VFX_Particle_Confettie
+  m_EditorClassIdentifier: Assembly-CSharp::Game.Effect.VFX.VFXAsset
+  prefab: {fileID: 8702044727759442584, guid: b6b19336034f8402aa5fbe91558b2036, type: 3}
+  fallbackLifetime: 10
+  prewarm: 0
+  maxPool: 16
